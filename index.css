@@ -57,7 +57,7 @@ nav ul li a {
     flex: 1;
 }
 
-@media (min-width: 480px) {
+@media (min-width: 481px) {
     .grid {
         flex-direction: row;
     }
